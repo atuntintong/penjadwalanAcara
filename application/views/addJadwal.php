@@ -12,7 +12,7 @@
             </ol>
         </div>
     </div>
-
+    <!-- comment -->
     <div class="wrapper wrapper-content animated fadeInRight" style="padding: 20px 200px 40px;">
         <form class="form-horizontal" action="<?php echo base_url();?>Jadwal/addData" method="POST" enctype="multipart/form-data">
         <div class="row">
